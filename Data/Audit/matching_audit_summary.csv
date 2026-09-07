@@ -1,0 +1,4 @@
+dataset,rows,valid_match_keys,unique_match_keys,duplicate_match_keys
+Dataset A,7668,7668,7668,0
+Dataset B,9771,9708,9693,15
+Dataset C,17978,17978,17931,45

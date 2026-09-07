@@ -1,0 +1,31 @@
+_match_key,id,title,original_title,release_date,budget,revenue
+animal | 2005,10252,Animal,Animal,2005-05-01,0.0,0.0
+animal | 2005,93407,Animal,Animal,2005-01-11,0.0,0.0
+beauty | 2018,1259448,Beauty,Beauty,2018-05-09,0.0,0.0
+beauty | 2018,714878,Beauty,Beauty,2018-01-07,0.0,0.0
+companion | 2025,1177375,Companion,Sahela,2025-03-20,0.0,0.0
+companion | 2025,1084199,Companion,Companion,2025-01-22,10000000.0,36869122.0
+consumed | 2015,333665,Consumed,Consumed,2015-06-01,0.0,0.0
+consumed | 2015,371176,Consumed,Consumed,2015-07-09,50000.0,0.0
+darling | 2007,25228,Darling,Darling,2007-02-09,0.0,0.0
+darling | 2007,59346,Darling,Darling,2007-11-07,0.0,0.0
+doors | 2021,1155813,DOORS,DOORS,2021-05-16,0.0,0.0
+doors | 2021,798141,Doors,Doors,2021-03-23,0.0,0.0
+horizon | 2013,400976,Horizon,Horizon,2013-06-06,0.0,0.0
+horizon | 2013,763717,Horizon,Horizon,2013-06-22,0.0,0.0
+i am | 2011,63467,I Am,I Am,2011-04-29,0.0,0.0
+i am | 2011,82932,I Am,I Am,2011-02-11,0.0,0.0
+magic hour | 2025,1421542,Magic Hour,Magic Hour,2025-02-05,0.0,0.0
+magic hour | 2025,1282774,Magic Hour,Magic Hour,2025-03-07,0.0,0.0
+marionette | 2020,662659,Marionette,Marionette,2020-09-28,0.0,0.0
+marionette | 2020,567360,Marionette,Marioneta,2020-01-17,0.0,0.0
+pocahontas | 1995,55346,Pocahontas,Pocahontas,1995-07-19,0.0,0.0
+pocahontas | 1995,10530,Pocahontas,Pocahontas,1995-06-16,55000000.0,346079773.0
+prodigal | 2011,737621,Prodigal,Prodigal,2011-11-11,300000.0,0.0
+prodigal | 2011,428024,Prodigal,Prodigal,2011-09-01,60000.0,0.0
+stay | 2020,938449,Stay,Stay,2020-11-27,10000.0,0.0
+stay | 2020,1080569,Stay,Stay,2020-05-20,30000.0,0.0
+stray | 2019,436053,Stray,Stray,2019-03-01,0.0,0.0
+stray | 2019,669632,Stray,Stray,2019-10-18,14800.0,0.0
+trophy wife | 2010,734454,Trophy Wife,Trophy Wife,2010-05-12,0.0,0.0
+trophy wife | 2010,51447,Trophy Wife,Potiche,2010-11-10,0.0,1611000.0
