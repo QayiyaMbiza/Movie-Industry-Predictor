@@ -1,0 +1,4 @@
+dataset,rows,columns,start_year,end_year,positive_budget,positive_revenue,budget_and_revenue
+Dataset A - Cleaned Movies,7668,20,1980,2020,5497,7479,5436
+Dataset B - TMDB Relational,9771,22,1904,2028,4015,4027,3435
+Dataset C - TMDB 2010-2025,17978,16,2010,2025,5515,6822,4105
