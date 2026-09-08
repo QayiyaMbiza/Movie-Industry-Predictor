@@ -1,0 +1,287 @@
+title,source_field,source
+Spider-Man: Brand New Day,source_name,Sony Pictures
+Spider-Man: Brand New Day,budget_source,Los Angeles Times / The Numbers
+Spider-Man: Brand New Day,genre_source,Sony Pictures / Rotten Tomatoes
+Spider-Man: Brand New Day,production_company_source,Sony Pictures / Rotten Tomatoes
+Spider-Man: Brand New Day,lead_cast_source,Sony Pictures - Spider-Man: Brand New Day
+Spider-Man: Brand New Day,lead_cast_source_type,official_studio
+Spider-Man: Brand New Day,franchise_source,Sony Pictures / Marvel
+Spider-Man: Brand New Day,franchise_source_url,https://www.sonypictures.com/movies/spidermanbrandnewday
+Spider-Man: Brand New Day,franchise_gap_source,Sony Pictures
+Spider-Man: Brand New Day,franchise_gap_source_url,https://www.sonypictures.com/movies/spidermannowayhome
+Spider-Man: Brand New Day,worldwide_box_office_source,The Numbers
+Spider-Man: Brand New Day,director_track_record_source,Dataset A - cleaned_movies.csv
+Spider-Man: Brand New Day,cast_track_record_source,Dataset A - cleaned_movies.csv
+Spider-Man: Brand New Day,sentiment_source,Variety - First Reactions
+Spider-Man: Brand New Day,sentiment_source_url,https://variety.com/2026/film/news/spider-man-brand-new-day-first-reactions-tom-holland-1236476079/
+Spider-Man: Brand New Day,social_interest_source,Sony Pictures / Variety
+Michael,source_name,Lionsgate / Variety
+Michael,budget_source,Variety
+Michael,genre_source,STARZ / Rotten Tomatoes
+Michael,production_company_source,Rotten Tomatoes / IMDb Company Credits
+Michael,lead_cast_source,STARZ / Lionsgate
+Michael,lead_cast_source_type,official_distributor
+Michael,franchise_source,Lionsgate
+Michael,worldwide_box_office_source,The Numbers
+Michael,director_track_record_source,Dataset A - cleaned_movies.csv
+Michael,cast_track_record_source,Dataset A - cleaned_movies.csv
+Michael,sentiment_source,Variety
+Michael,sentiment_source_url,https://variety.com/2026/film/news/michael-box-office-record-opening-music-biopic-1236470847/
+Michael,social_interest_source,Lionsgate / Variety
+The Odyssey,source_name,Universal / Variety
+The Odyssey,budget_source,Los Angeles Times / The Numbers
+The Odyssey,genre_source,Universal Pictures / Rotten Tomatoes
+The Odyssey,production_company_source,Universal Pictures / Rotten Tomatoes
+The Odyssey,lead_cast_source,Universal Pictures
+The Odyssey,lead_cast_source_type,official_studio
+The Odyssey,franchise_source,Universal Pictures
+The Odyssey,worldwide_box_office_source,The Numbers
+The Odyssey,director_track_record_source,Dataset A - cleaned_movies.csv
+The Odyssey,cast_track_record_source,Dataset A - cleaned_movies.csv
+The Odyssey,sentiment_source,Variety - World Premiere Coverage
+The Odyssey,sentiment_source_url,https://variety.com/2026/film/news/the-odyssey-world-premiere-london-1236454419/
+The Odyssey,social_interest_source,Universal Pictures / Variety
+Scary Movie,source_name,Paramount
+Scary Movie,budget_source,The Numbers / Forbes
+Scary Movie,genre_source,Paramount Pictures
+Scary Movie,production_company_source,Rotten Tomatoes / IMDb Company Credits
+Scary Movie,lead_cast_source,Paramount Pictures / Paramount+
+Scary Movie,lead_cast_source_type,official_studio
+Scary Movie,franchise_source,Paramount Pictures
+Scary Movie,franchise_source_url,https://www.paramountpictures.com/movies/scary-movie
+Scary Movie,franchise_gap_source,Paramount / historical release records
+Scary Movie,franchise_gap_source_url,https://www.paramount.com/news/scary-movie-stars-are-ready-to-make-audiences-laugh-again
+Scary Movie,worldwide_box_office_source,The Numbers
+Scary Movie,director_track_record_source,Dataset A - cleaned_movies.csv
+Scary Movie,cast_track_record_source,Dataset A - cleaned_movies.csv
+Scary Movie,social_interest_source,Paramount Pictures
+Mortal Kombat II,source_name,Warner Bros.
+Mortal Kombat II,budget_source,The Numbers
+Mortal Kombat II,genre_source,Rotten Tomatoes
+Mortal Kombat II,production_company_source,Warner Bros. Official Movie Site
+Mortal Kombat II,lead_cast_source,Warner Bros. Pictures
+Mortal Kombat II,lead_cast_source_type,official_studio
+Mortal Kombat II,franchise_source,Warner Bros. / New Line Cinema
+Mortal Kombat II,franchise_gap_source,Warner Bros. / New Line Cinema
+Mortal Kombat II,worldwide_box_office_source,The Numbers
+Mortal Kombat II,director_track_record_source,Dataset A - cleaned_movies.csv
+Mortal Kombat II,cast_track_record_source,Dataset A - cleaned_movies.csv
+Mortal Kombat II,sentiment_source,Variety - Pre-Release Review
+Mortal Kombat II,sentiment_source_url,https://variety.com/2026/film/news/mortal-kombat-ii-review-karl-urban-1236447591/
+Mortal Kombat II,social_interest_source,Warner Bros. Pictures
+The Super Mario Galaxy Movie,source_name,Universal / Variety
+The Super Mario Galaxy Movie,budget_source,Variety / The Numbers
+The Super Mario Galaxy Movie,genre_source,Nintendo / Illumination / Rotten Tomatoes
+The Super Mario Galaxy Movie,production_company_source,Nintendo / Illumination
+The Super Mario Galaxy Movie,lead_cast_source,Nintendo / Illumination
+The Super Mario Galaxy Movie,lead_cast_source_type,official_studio
+The Super Mario Galaxy Movie,franchise_source,Nintendo / Illumination
+The Super Mario Galaxy Movie,franchise_source_url,https://www.nintendo.co.jp/corporate/release/en/2025/250912.html
+The Super Mario Galaxy Movie,franchise_gap_source,Nintendo
+The Super Mario Galaxy Movie,franchise_gap_source_url,https://www.nintendo.com/en-ca/whatsnew/celebrate-the-launch-of-the-super-mario-bros-movie/
+The Super Mario Galaxy Movie,worldwide_box_office_source,The Numbers
+The Super Mario Galaxy Movie,director_track_record_source,Dataset A - cleaned_movies.csv
+The Super Mario Galaxy Movie,cast_track_record_source,Dataset A - cleaned_movies.csv
+The Super Mario Galaxy Movie,sentiment_source,Variety - Pre-Release Review
+The Super Mario Galaxy Movie,sentiment_source_url,https://variety.com/2026/film/global/the-super-mario-galaxy-movie-review-chris-pratt-jack-black-1236418581/
+The Super Mario Galaxy Movie,social_interest_source,Nintendo / Illumination
+The Devil Wears Prada 2,source_name,20th Century Studios
+The Devil Wears Prada 2,budget_source,Associated Press / The Numbers
+The Devil Wears Prada 2,genre_source,20th Century Studios
+The Devil Wears Prada 2,production_company_source,20th Century Studios / Rotten Tomatoes
+The Devil Wears Prada 2,lead_cast_source,20th Century Studios
+The Devil Wears Prada 2,lead_cast_source_type,official_studio
+The Devil Wears Prada 2,franchise_source,20th Century Studios
+The Devil Wears Prada 2,franchise_source_url,https://www.20thcenturystudios.com/movies/the-devil-wears-prada-2
+The Devil Wears Prada 2,franchise_gap_source,20th Century Studios
+The Devil Wears Prada 2,franchise_gap_source_url,https://www.20thcenturystudios.com/movies/the-devil-wears-prada
+The Devil Wears Prada 2,worldwide_box_office_source,The Numbers
+The Devil Wears Prada 2,director_track_record_source,Dataset A - cleaned_movies.csv
+The Devil Wears Prada 2,cast_track_record_source,Dataset A - cleaned_movies.csv
+The Devil Wears Prada 2,sentiment_source,Variety - First Reactions
+The Devil Wears Prada 2,sentiment_source_url,https://variety.com/2026/film/global/the-devil-wears-prada-2-first-reactions-hathaway-streep-1236442908/
+The Devil Wears Prada 2,social_interest_source,20th Century Studios / Variety
+Toy Story 5,source_name,Pixar / Disney
+Toy Story 5,budget_source,Los Angeles Times
+Toy Story 5,genre_source,Disney / Pixar
+Toy Story 5,production_company_source,Pixar / Rotten Tomatoes
+Toy Story 5,lead_cast_source,Disney / Pixar
+Toy Story 5,lead_cast_source_type,official_studio
+Toy Story 5,franchise_source,Pixar
+Toy Story 5,franchise_source_url,https://www.pixar.com/toy-story-5
+Toy Story 5,franchise_gap_source,Disney / Pixar
+Toy Story 5,franchise_gap_source_url,https://movies.disney.com/toy-story-4
+Toy Story 5,worldwide_box_office_source,The Numbers
+Toy Story 5,director_track_record_source,Dataset A - cleaned_movies.csv
+Toy Story 5,cast_track_record_source,Dataset A - cleaned_movies.csv
+Toy Story 5,sentiment_source,Variety - First Reactions
+Toy Story 5,sentiment_source_url,https://variety.com/2026/film/global/toy-story-5-first-reactions-1236460158/
+Toy Story 5,social_interest_source,Disney / Pixar
+GOAT,source_name,Sony Pictures
+GOAT,budget_source,Variety / The Numbers
+GOAT,genre_source,Sony Pictures
+GOAT,production_company_source,Sony Pictures / Unanimous Media
+GOAT,lead_cast_source,Sony Pictures Animation / Rotten Tomatoes
+GOAT,lead_cast_source_type,studio_and_secondary
+GOAT,franchise_source,Sony Pictures
+GOAT,franchise_source_url,https://www.sonypictures.com/movies/goat
+GOAT,worldwide_box_office_source,The Numbers
+GOAT,director_track_record_source,Dataset A - cleaned_movies.csv
+GOAT,cast_track_record_source,Dataset A - cleaned_movies.csv
+GOAT,sentiment_source,Sony Pictures Animation
+GOAT,sentiment_source_url,https://www.linkedin.com/company/sony-pictures-animation/
+GOAT,social_interest_source,Sony Pictures Animation
+Backrooms,source_name,A24
+Backrooms,budget_source,The Numbers
+Backrooms,genre_source,Rotten Tomatoes / A24
+Backrooms,production_company_source,A24 / Rotten Tomatoes
+Backrooms,lead_cast_source,A24
+Backrooms,lead_cast_source_type,official_studio
+Backrooms,franchise_source,A24
+Backrooms,franchise_source_url,https://a24films.com/films/backrooms
+Backrooms,worldwide_box_office_source,The Numbers
+Backrooms,director_track_record_source,Dataset A - cleaned_movies.csv
+Backrooms,cast_track_record_source,Dataset A - cleaned_movies.csv
+Backrooms,sentiment_source,Variety - Pre-Release Review
+Backrooms,sentiment_source_url,https://variety.com/2026/film/news/backrooms-review-chiwetel-ejiofor-kane-parsons-1236453861/
+Backrooms,social_interest_source,A24 / Variety
+The Cat in the Hat,source_name,Warner Bros. / Variety
+The Cat in the Hat,genre_source,Rotten Tomatoes / Warner Bros.
+The Cat in the Hat,production_company_source,Rotten Tomatoes / Warner Bros.
+The Cat in the Hat,lead_cast_source,Warner Bros. Pictures
+The Cat in the Hat,lead_cast_source_type,official_studio
+The Cat in the Hat,franchise_source,Warner Bros. Pictures
+The Cat in the Hat,franchise_source_url,https://www.catinthehatfilm.com/
+The Cat in the Hat,franchise_gap_source,Universal / historical release records
+The Cat in the Hat,director_track_record_source,Dataset A - cleaned_movies.csv
+The Cat in the Hat,cast_track_record_source,Dataset A - cleaned_movies.csv
+The Cat in the Hat,sentiment_source,Variety - Trailer Coverage
+The Cat in the Hat,sentiment_source_url,https://variety.com/2025/film/news/cat-in-the-hat-trailer-bill-hader-dr-seuss-1236443039/
+The Cat in the Hat,social_interest_source,Warner Bros. Pictures / Variety
+Dune: Part Three,source_name,Warner Bros. / Variety
+Dune: Part Three,genre_source,Rotten Tomatoes
+Dune: Part Three,production_company_source,Warner Bros. / Legendary
+Dune: Part Three,lead_cast_source,Warner Bros. / Rotten Tomatoes
+Dune: Part Three,lead_cast_source_type,studio_and_secondary
+Dune: Part Three,franchise_source,Warner Bros. / Legendary
+Dune: Part Three,franchise_source_url,https://www.dunemovie.net/
+Dune: Part Three,franchise_gap_source,Warner Bros. / Legendary
+Dune: Part Three,director_track_record_source,Dataset A - cleaned_movies.csv
+Dune: Part Three,cast_track_record_source,Dataset A - cleaned_movies.csv
+Dune: Part Three,sentiment_source,Variety - CinemaCon / Trailer Coverage
+Dune: Part Three,sentiment_source_url,https://variety.com/2026/film/news/dune-3-cinemacon-opening-scene-footage-chalamet-1236432580/
+Dune: Part Three,social_interest_source,Warner Bros. / Legendary / Variety
+Avengers: Doomsday,source_name,Disney
+Avengers: Doomsday,genre_source,Disney
+Avengers: Doomsday,production_company_source,Marvel / Rotten Tomatoes
+Avengers: Doomsday,lead_cast_source,Disney / Marvel Studios
+Avengers: Doomsday,lead_cast_source_type,official_studio
+Avengers: Doomsday,franchise_source,Marvel / Disney
+Avengers: Doomsday,franchise_source_url,https://movies.disney.com/avengers-doomsday
+Avengers: Doomsday,franchise_gap_source,Disney / Marvel Studios
+Avengers: Doomsday,franchise_gap_source_url,https://movies.disney.com/avengers-endgame
+Avengers: Doomsday,director_track_record_source,Dataset A - cleaned_movies.csv
+Avengers: Doomsday,cast_track_record_source,Dataset A - cleaned_movies.csv
+Avengers: Doomsday,sentiment_source,Variety - CinemaCon Trailer Coverage
+Avengers: Doomsday,sentiment_source_url,https://variety.com/2026/film/news/avengers-doomsday-trailer-robert-downey-jr-doctor-doom-1236433230/
+Avengers: Doomsday,social_interest_source,Marvel Studios / Disney / Variety
+Shrek 5,source_name,DreamWorks / Variety
+Shrek 5,genre_source,DreamWorks / Rotten Tomatoes
+Shrek 5,production_company_source,DreamWorks Animation
+Shrek 5,lead_cast_source,Universal / DreamWorks Animation
+Shrek 5,lead_cast_source_type,official_studio
+Shrek 5,franchise_source,DreamWorks Animation
+Shrek 5,franchise_source_url,https://www.dreamworks.com/shrek
+Shrek 5,franchise_gap_source,DreamWorks Animation
+Shrek 5,franchise_gap_source_url,https://www.dreamworks.com/movies/shrek-forever-after
+Shrek 5,director_track_record_source,Dataset A - cleaned_movies.csv
+Shrek 5,cast_track_record_source,Dataset A - cleaned_movies.csv
+Shrek 5,sentiment_source,ComingSoon - Fan Reaction Analysis
+Shrek 5,sentiment_source_url,https://www.comingsoon.net/movies/features/2150432-why-shrek-5-trailers-new-animation-style-is-dividing-fans
+Shrek 5,social_interest_source,DreamWorks Animation / trade coverage
+Jumanji: Open World,source_name,Sony / Variety
+Jumanji: Open World,genre_source,Rotten Tomatoes
+Jumanji: Open World,production_company_source,Rotten Tomatoes
+Jumanji: Open World,lead_cast_source,Sony Pictures
+Jumanji: Open World,lead_cast_source_type,official_studio
+Jumanji: Open World,franchise_source,Sony Pictures
+Jumanji: Open World,franchise_source_url,https://www.sonypictures.com/
+Jumanji: Open World,franchise_gap_source,Sony Pictures
+Jumanji: Open World,franchise_gap_source_url,https://www.sonypictures.com/movies/jumanjithenextlevel
+Jumanji: Open World,director_track_record_source,Dataset A - cleaned_movies.csv
+Jumanji: Open World,cast_track_record_source,Dataset A - cleaned_movies.csv
+Jumanji: Open World,sentiment_source,Variety - CinemaCon Coverage
+Jumanji: Open World,sentiment_source_url,https://variety.com/2026/film/news/jumanji-3-title-open-world-trailer-cinemacon-robin-williams-tribute-1236432112/
+Jumanji: Open World,social_interest_source,Sony Pictures / Variety
+Street Fighter,source_name,Paramount / Variety
+Street Fighter,genre_source,Legendary / Rotten Tomatoes
+Street Fighter,production_company_source,Legendary / Paramount
+Street Fighter,lead_cast_source,Paramount Pictures / Legendary
+Street Fighter,lead_cast_source_type,official_studio
+Street Fighter,franchise_source,Paramount / Legendary / Capcom
+Street Fighter,franchise_source_url,https://www.paramount.com/press/paramount-pictures-and-legendary-entertainment-strike-strategic-three-year-global-distribution-deal
+Street Fighter,franchise_gap_source,Capcom / historical release records
+Street Fighter,franchise_gap_source_url,https://news.capcomusa.com/lets/browse/street-fighter-comics-turning-into-dvds
+Street Fighter,director_track_record_source,Dataset A - cleaned_movies.csv
+Street Fighter,cast_track_record_source,Dataset A - cleaned_movies.csv
+Street Fighter,sentiment_source,GamesRadar - Trailer Reaction
+Street Fighter,sentiment_source_url,https://www.gamesradar.com/entertainment/live-action-movies/the-new-street-fighter-trailer-is-now-playable-and-good-luck-nailing-those-combos/
+Street Fighter,social_interest_source,Paramount / Legendary / Capcom
+The Batman Part II,source_name,Warner Bros. / Variety
+The Batman Part II,genre_source,Rotten Tomatoes
+The Batman Part II,production_company_source,Rotten Tomatoes
+The Batman Part II,lead_cast_source,Warner Bros. / Variety / Entertainment Weekly
+The Batman Part II,lead_cast_source_type,studio_and_trade
+The Batman Part II,franchise_source,DC Studios / Warner Bros.
+The Batman Part II,franchise_source_url,https://www.dc.com/blog/2023/01/31/the-next-generation-of-dc-movies-and-tv-has-arrived
+The Batman Part II,franchise_gap_source,DC / Warner Bros.
+The Batman Part II,franchise_gap_source_url,https://www.dc.com/movies/the-batman-2022
+The Batman Part II,director_track_record_source,Dataset A - cleaned_movies.csv
+The Batman Part II,cast_track_record_source,Dataset A - cleaned_movies.csv
+The Batman Part II,sentiment_source,Variety
+The Batman Part II,sentiment_source_url,https://variety.com/2026/film/news/the-batman-part-2-scarlett-johansson-sebastian-stan-1236449318/
+The Batman Part II,social_interest_source,DC Studios / Warner Bros. / Variety
+Spider-Man: Beyond the Spider-Verse,source_name,Sony / Variety
+Spider-Man: Beyond the Spider-Verse,genre_source,Sony Pictures Animation / Rotten Tomatoes
+Spider-Man: Beyond the Spider-Verse,production_company_source,Sony Pictures Animation / Rotten Tomatoes
+Spider-Man: Beyond the Spider-Verse,lead_cast_source,Sony Pictures Animation / IMDb
+Spider-Man: Beyond the Spider-Verse,lead_cast_source_type,studio_and_secondary
+Spider-Man: Beyond the Spider-Verse,franchise_source,Sony Pictures Animation
+Spider-Man: Beyond the Spider-Verse,franchise_source_url,https://www.sonypicturesanimation.com/projects/films/spider-man-beyond-spider-verse
+Spider-Man: Beyond the Spider-Verse,franchise_gap_source,Sony Pictures
+Spider-Man: Beyond the Spider-Verse,franchise_gap_source_url,https://www.sonypictures.com/movies/spidermanacrossthespiderverse
+Spider-Man: Beyond the Spider-Verse,director_track_record_source,Dataset A - cleaned_movies.csv
+Spider-Man: Beyond the Spider-Verse,cast_track_record_source,Dataset A - cleaned_movies.csv
+Spider-Man: Beyond the Spider-Verse,sentiment_source,Variety
+Spider-Man: Beyond the Spider-Verse,sentiment_source_url,https://variety.com/2026/film/news/spider-man-beyond-spider-verse-trailer-leak-1236484915/
+Spider-Man: Beyond the Spider-Verse,social_interest_source,Sony Pictures Animation / Variety
+Children of Blood and Bone,source_name,Paramount
+Children of Blood and Bone,genre_source,Paramount Pictures / Rotten Tomatoes
+Children of Blood and Bone,production_company_source,The Numbers / IMDb Company Credits
+Children of Blood and Bone,lead_cast_source,Paramount Pictures
+Children of Blood and Bone,lead_cast_source_type,official_studio
+Children of Blood and Bone,franchise_source,Paramount Pictures
+Children of Blood and Bone,franchise_source_url,https://www.paramountpictures.com/movies/children-of-blood-and-bone
+Children of Blood and Bone,director_track_record_source,Dataset A - cleaned_movies.csv
+Children of Blood and Bone,cast_track_record_source,Dataset A - cleaned_movies.csv
+Children of Blood and Bone,sentiment_source,TheWrap / The Citizen
+Children of Blood and Bone,sentiment_source_url,https://www.thewrap.com/creative-content/movies/children-of-blood-and-bone-cinemacon-footage-description/
+Children of Blood and Bone,social_interest_source,Paramount Pictures / trade coverage
+PROJECT SOURCE,website,Sony Pictures - https://www.sonypictures.com/
+PROJECT SOURCE,website,Sony Pictures Animation - https://www.sonypicturesanimation.com/
+PROJECT SOURCE,website,Disney - https://www.disney.com/
+PROJECT SOURCE,website,Marvel - https://www.marvel.com/
+PROJECT SOURCE,website,Pixar - https://www.pixar.com/
+PROJECT SOURCE,website,20th Century Studios - https://www.20thcenturystudios.com/
+PROJECT SOURCE,website,Universal Pictures - https://www.universalpictures.com/
+PROJECT SOURCE,website,DreamWorks - https://www.dreamworks.com/
+PROJECT SOURCE,website,Warner Bros. - https://www.warnerbros.com/
+PROJECT SOURCE,website,DC - https://www.dc.com/
+PROJECT SOURCE,website,Paramount - https://www.paramount.com/
+PROJECT SOURCE,website,Legendary - https://www.legendary.com/
+PROJECT SOURCE,website,Nintendo - https://www.nintendo.com/
+PROJECT SOURCE,website,A24 - https://a24films.com/
+PROJECT SOURCE,website,Lionsgate - https://www.lionsgate.com/
+PROJECT SOURCE,website,Variety - https://variety.com/
+PROJECT SOURCE,website,The Numbers - https://www.the-numbers.com/
+PROJECT SOURCE,website,Rotten Tomatoes - https://www.rottentomatoes.com/
