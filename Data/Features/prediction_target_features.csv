@@ -1,0 +1,20 @@
+title,cohort,release_date,log_budget,release_year,release_month,release_quarter,holiday_release,director_prior_films,director_prior_avg_gross,star_prior_films,star_prior_avg_gross,company_prior_films,company_prior_avg_gross,primary_genre,release_season,worldwide_box_office,log_worldwide_box_office
+Spider-Man: Brand New Day,released_backtest,2026-07-31,19.23161096461314,2026,7,3,0,2,11866848.5,3,718015176.0,332,129545004.05421686,Unknown,summer,2402937000.0,21.599957576544757
+Michael,released_backtest,2026-04-24,18.951309000896888,2026,4,2,0,12,114861557.5,0,,4,86604758.75,Unknown,spring,1021426595.0,20.74446611060913
+The Odyssey,released_backtest,2026-07-17,19.33697147982652,2026,7,3,0,11,468504358.90909094,25,161612560.32,1,527016307.0,Unknown,summer,1627387000.0,21.210241498607367
+Scary Movie,released_backtest,2026-06-05,17.216707972959764,2026,6,2,0,3,35915271.333333336,8,145278448.125,74,50979416.5945946,Unknown,summer,231277762.0,19.259129983366854
+Mortal Kombat II,released_backtest,2026-05-08,18.197537205138154,2026,5,2,0,0,,4,35278711.5,174,114274699.33333333,Unknown,summer,129470110.0,18.67896060937593
+The Super Mario Galaxy Movie,released_backtest,2026-04-03,18.5159909328476,2026,4,2,0,0,,6,879742689.6666666,2,1097122396.5,Unknown,spring,1012793366.0,20.735978060162125
+The Devil Wears Prada 2,released_backtest,2026-05-01,18.420680753952364,2026,5,2,0,7,115651381.42857143,25,91412353.56,0,,Unknown,summer,692817491.0,20.356277163161664
+Toy Story 5,released_backtest,2026-06-19,18.980296537602072,2026,6,2,0,4,693593644.25,41,242742044.46341464,12,657195377.1666666,Unknown,summer,1137319581.0,20.851940086978836
+GOAT,released_backtest,2026-02-13,18.197537205138154,2026,2,1,0,0,,0,,4,231989406.25,Unknown,winter,195356870.0,19.090338551613634
+Backrooms,released_backtest,2026-05-29,16.118095750958314,2026,5,2,0,0,,6,41583170.0,8,25474997.875,Unknown,summer,393167286.0,19.789745745929846
+The Cat in the Hat,future_prediction,2026-11-06,,2026,11,4,1,0,,1,274325949.0,3,3391862.6666666665,Unknown,holiday,,
+Dune: Part Three,future_prediction,2026-12-18,,2026,12,4,1,7,97220581.0,0,,0,,Unknown,holiday,,
+Avengers: Doomsday,future_prediction,2026-12-18,,2026,12,4,1,0,,21,564739344.4761904,12,1255466034.25,Unknown,holiday,,
+Shrek 5,future_prediction,2027-06-30,,2027,6,2,0,0,,12,339745081.4166667,28,424057602.0714286,Unknown,summer,,
+Jumanji: Open World,future_prediction,2026-12-25,,2026,12,4,1,7,310122618.71428573,22,259603210.1818182,332,129545004.05421686,Unknown,holiday,,
+Street Fighter,future_prediction,2026-10-16,,2026,10,4,0,0,,0,,0,,Unknown,fall,,
+The Batman Part II,future_prediction,2028-02-18,,2028,2,1,0,5,281301697.8,7,30438779.85714286,1,1710972.0,Unknown,winter,,
+Spider-Man: Beyond the Spider-Verse,future_prediction,2027-06-18,,2027,6,2,0,0,,2,196763806.0,4,231989406.25,Unknown,summer,,
+Children of Blood and Bone,future_prediction,2027-01-15,,2027,1,1,0,3,27433094.0,0,,2,356922985.5,Unknown,winter,,
