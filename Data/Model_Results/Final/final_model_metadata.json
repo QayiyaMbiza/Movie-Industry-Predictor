@@ -1,0 +1,38 @@
+{
+    "regression": {
+        "model": "HistGradientBoostingRegressor",
+        "parameters": {
+            "l2_regularization": 1.0,
+            "learning_rate": 0.05,
+            "max_iter": 250,
+            "max_leaf_nodes": 31,
+            "min_samples_leaf": 20
+        },
+        "validation_rmse_log": 1.41449,
+        "validation_r2": 0.637363,
+        "test_mae_log": 1.3774322079476087,
+        "test_rmse_log": 1.934820270618837,
+        "test_r2": 0.574359340930306
+    },
+    "classification": {
+        "model": "RandomForestClassifier",
+        "parameters": {
+            "n_estimators": 500,
+            "max_depth": null,
+            "max_features": "sqrt",
+            "min_samples_leaf": 4,
+            "class_weight": "balanced"
+        },
+        "decision_threshold": 0.57,
+        "validation_roc_auc": 0.915272,
+        "validation_f1_at_selected_threshold": 0.735178,
+        "test_accuracy": 0.8720379146919431,
+        "test_precision": 0.7804878048780488,
+        "test_recall": 0.64,
+        "test_f1": 0.7032967032967034,
+        "test_roc_auc": 0.908944099378882,
+        "test_average_precision": 0.8240842716966823
+    },
+    "test_policy": "Test set evaluated once after model selection, hyperparameter tuning and threshold selection.",
+    "genre_reconciliation": "19 genres exist in the cleaned source, but History contains only one movie with missing worldwide gross. The supervised modelling dataset therefore correctly contains 18 eligible genres."
+}
