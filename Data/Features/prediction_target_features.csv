@@ -9,12 +9,12 @@ The Devil Wears Prada 2,released_backtest,2026-05-01,18.420680753952364,2026,5,2
 Toy Story 5,released_backtest,2026-06-19,18.980296537602072,2026,6,2,0,4,693593644.25,41,242742044.46341464,12,657195377.1666666,Animation,summer,1137319581.0,20.851940086978836
 GOAT,released_backtest,2026-02-13,18.197537205138154,2026,2,1,0,0,,0,,4,231989406.25,Animation,winter,195356870.0,19.090338551613634
 Backrooms,released_backtest,2026-05-29,16.118095750958314,2026,5,2,0,0,,6,41583170.0,8,25474997.875,Horror,summer,393167286.0,19.789745745929846
-The Cat in the Hat,future_prediction,2026-11-06,,2026,11,4,1,0,,1,274325949.0,3,3391862.6666666665,Animation,holiday,,
+The Cat in the Hat,future_prediction,2026-11-06,,2026,11,4,1,1,521170825.0,1,274325949.0,3,3391862.6666666665,Animation,holiday,,
 Dune: Part Three,future_prediction,2026-12-18,,2026,12,4,1,7,97220581.0,0,,0,,Sci-Fi,holiday,,
-Avengers: Doomsday,future_prediction,2026-12-18,,2026,12,4,1,0,,21,564739344.4761904,12,1255466034.25,Action,holiday,,
+Avengers: Doomsday,future_prediction,2026-12-18,,2026,12,4,1,5,1368849796.8,21,564739344.4761904,12,1255466034.25,Action,holiday,,
 Shrek 5,future_prediction,2027-06-30,,2027,6,2,0,0,,12,339745081.4166667,28,424057602.0714286,Animation,summer,,
 Jumanji: Open World,future_prediction,2026-12-25,,2026,12,4,1,7,310122618.71428573,22,259603210.1818182,332,129545004.05421686,Adventure,holiday,,
 Street Fighter,future_prediction,2026-10-16,,2026,10,4,0,0,,0,,0,,Action,fall,,
 The Batman Part II,future_prediction,2028-02-18,,2028,2,1,0,5,281301697.8,7,30438779.85714286,1,1710972.0,Action,winter,,
-Spider-Man: Beyond the Spider-Verse,future_prediction,2027-06-18,,2027,6,2,0,0,,2,196763806.0,4,231989406.25,Animation,summer,,
+Spider-Man: Beyond the Spider-Verse,future_prediction,2027-06-18,,2027,6,2,0,1,375540831.0,2,196763806.0,4,231989406.25,Animation,summer,,
 Children of Blood and Bone,future_prediction,2027-01-15,,2027,1,1,0,3,27433094.0,0,,2,356922985.5,Action,winter,,
