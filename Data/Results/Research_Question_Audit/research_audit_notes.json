@@ -1,0 +1,24 @@
+{
+  "model_family": "Notebook 09 train-only models in Data/Models/Final",
+  "validation_rows": 600,
+  "reference_log_rmse": 1.4144896262620823,
+  "reference_roc_auc": 0.9152718115834692,
+  "permutation_repeats": 10,
+  "budget_sample_rows": 4879,
+  "budget_bootstrap_repeats": 500,
+  "test_data_used": false,
+  "model_sha256": {
+    "regression_model": "9034680dd0e07a820364cea51b15e8d03c772f390be3d44bc37aff08e5b5f68d",
+    "classification_model": "22edc4c7cad05f8fcc8367f4b543174d086cd5acc56934ce27791e92ea3efe9a"
+  },
+  "limitations": [
+    "Validation was previously used for model selection; importance is descriptive.",
+    "Correlated feature groups can substitute for one another.",
+    "Permutation standard deviations are not confidence intervals.",
+    "Budget slopes are unadjusted observational associations in nominal dollars.",
+    "Budget bands have unequal sample sizes; inspect counts.",
+    "Gross divided by budget is not studio profit or ROI.",
+    "Bootstrap intervals do not address confounding, selection or dependence.",
+    "Franchise, sequel gaps and sentiment remain deferred."
+  ]
+}
