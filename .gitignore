@@ -216,3 +216,31 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Operating-system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Temporary/editor files
+~$*
+*.tmp
+*.temp
+*.swp
+*.swo
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data caches
+Data/Cache/
+Data/**/cache/
+
+# Local environments
+.venv/
+venv/
+env/
+
+# Large model binaries created locally
+*.joblib
+*.pkl
+*.pickle
